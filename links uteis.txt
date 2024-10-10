@@ -1,0 +1,2 @@
+back-end: https://adopet-api-i8qu.onrender.com/adotante/
+front-end: https://adopet-frontend-cypress.vercel.app/
